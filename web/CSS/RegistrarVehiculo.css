@@ -1,0 +1,78 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 31/05/2022, 09:26:58 PM
+    Author     : User
+*/
+
+
+
+
+.RegistrarVehiculo{
+    clor: back;
+    font-size: 50pX;
+}
+
+.registro{
+    width:300px;
+    padding:16px;
+    border-radius:10px;
+    margin:auto;
+    background-color: #208395;
+    font-size: 20px;
+    border:1px solid #208395;
+    font-weight:bold;
+}
+
+input{
+    width: 272px;
+    height: 25px;
+    display:inline-block;
+    margin-top:5px;
+}
+
+select{
+    width: 282px;
+    height: 35px;
+    display:inline-block;
+    margin-top:5px;
+}
+option{
+    font-size: 18px;
+}
+
+.but-1{
+    width:100%;
+    padding:8px 16px;
+    margin-top:5px;
+    border:1px solid #000;
+    border-radius:5px;
+    display:block;
+    color:#fff;
+    background-color:#000;
+    font-size: 16px;
+} 
+
+.but-1:hover{
+    cursor:pointer;
+    color:#000;
+    background-color:#D2D8D9;
+    border:1px solid #B3B3B3;
+}
+
+a{
+    font-size: 16px;
+    color:#fff;
+    text-decoration: none;
+}
+a:hover{
+     color:#000;
+}
+.mensaje{
+    padding-bottom: 5px;
+        color: #BAEDFA;
+        
+}

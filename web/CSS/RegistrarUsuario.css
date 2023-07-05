@@ -1,0 +1,133 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 31/05/2022, 09:15:26 PM
+    Author     : User
+*/
+body {
+    height:  100vh; 
+    width:  100vw;
+    margin:  0 0; 
+    display:  flex; 
+    align-items:  flex-start; 
+    justify-content:  flex-start; 
+    background:  #f3f2f2; 
+}
+
+h1{
+    color: #1891A7;
+    font-size: 50px;
+    padding: 12px;
+    position: relative;
+}
+
+form {
+    padding:  40px 30px; 
+    background:  #fefefe; 
+    display:  flex; 
+    flex-direction:  column;
+    align-items:  flex-start; 
+    padding-bottom:  20px; 
+    width:  300px; 
+    height: 330px;
+    margin-top: 50px;
+    font-size: 16px;
+    color: #000;
+}
+
+input{
+    width: 272px;
+    height: 25px;
+    display:inline-block;
+}
+button{
+    width:300px;
+    padding:8px 16px;
+    border:1px solid #000;
+    border-radius:5px;
+    display:block;
+    color:#fff;
+    background-color:#1891A7;
+    font-size: 18px;
+} 
+button:hover{
+    cursor:pointer;
+    color:#000;
+    background-color:#D2D8D9;
+    border:1px solid #B3B3B3;
+}
+tr{
+    font-size: 16px;
+    color: #000;
+}
+input{
+    font-size:  16px; 
+    padding:  15px 0px; 
+    height:  46px; 
+    border:  none; 
+    border-bottom:  solid 1px #1891A7; 
+    background:  #fff; 
+    width:  280px; 
+    box-sizing:  border-box; 
+    transition:  all .3s linear; 
+    color:  #000; 
+    font-weight:  300;
+
+}
+button {
+    width:  300px;
+    border-radius:  24px; 
+    text-align:  center; 
+    padding:  15px 40px;
+    margin-top:  5px; 
+    color:  #fff; 
+    font-size:  14px;
+    margin-left:  auto; 
+  
+    box-shadow:  0px 2px 6px -1px rgba(0,0,0,.13); 
+    
+  
+}
+.Registro {
+    display:  flex; 
+    flex-direction:  row; 
+    width:  400px; 
+    height:  auto; 
+    margin:  auto; 
+    background:  #ffffff; 
+    border-radius:  4px; 
+    box-shadow:  0px 2px 6px -1px rgba(0,0,0,.12);
+}
+.left {
+    width:  300px; 
+    height:  auto; 
+    min-height:  100%; 
+    position:  relative; 
+    background-size:  cover;
+    border-top-left-radius:  4px; 
+    border-bottom-left-radius:  4px; 
+
+}
+
+.mensaje{
+    padding-bottom: 5px;
+    color: #BAEDFA;
+
+}
+.inicio{
+    color:blue;
+    font-size: 16px;
+    text-align:  center; 
+    padding:15px 40px;
+    text-decoration: none;
+}
+
+
+.inicio{
+    position: relative;
+    top: -50px;
+    left: 30px;
+}   

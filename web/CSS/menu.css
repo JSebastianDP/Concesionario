@@ -1,0 +1,126 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 6/06/2022, 09:28:17 PM
+    Author     : User
+*/
+
+.Listado{
+    float: center;
+    height: 300px;
+    width: 30%;
+    position: relative;
+}
+.RegistrarV{
+    float: right;
+     height: 300px;
+    width: 30%;
+     position: relative;
+    
+}
+.consultar{
+    float: left;
+     height: 300px;
+    width: 30%;
+     position: relative;
+}
+.header{
+    background-color: #1891A7;
+    color: white;
+    position: relative;
+    
+}
+
+.btn1{
+    width:400px;
+    height: 50px;
+    padding:8px 16px;
+    margin-bottom: 40px;
+    margin-top: 530px;
+    border:1px solid #000;
+    border-radius:5px;
+    font-size: 18px;
+    position: absolute;
+    position: relative;
+    float: right;
+     top: -500px;
+} 
+
+.btn1:hover{
+    cursor:pointer;
+    color: blue;
+    
+    border:1px solid #1891A7;
+}
+.btn1 a{
+    color:black;
+    font-size: 16px;
+    text-decoration: none;
+    padding-top: 55px;
+}
+.btn1 a:hover{
+    color: blue;
+}
+
+.btn2{
+    width:400px;
+    height: 50px;
+    padding:8px 16px;
+    margin-bottom: 40px;
+    margin-top: 530px;
+    border:1px solid #000;
+    border-radius:5px;
+    font-size: 18px;
+    position: absolute;
+    position: relative;
+    float: left;
+     top: -500px;
+} 
+
+.btn2:hover{
+    cursor:pointer;
+    color:blue;
+    border:1px solid #1891A7;
+}
+.btn2 a{
+    color:black;
+    font-size: 16px;
+    text-decoration: none;
+    padding-top: 55px;
+}
+.btn2 a:hover{
+    color: blue;
+}
+
+.btn3{
+    width:400px;
+    height: 50px;
+    padding:8px 16px;
+    margin-bottom: 40px;
+    margin-top: 530px;
+    border:1px solid #000;
+    border-radius:5px;
+    font-size: 18px;
+    position: absolute;
+    position: relative;
+    float: center;
+    top: -500px;
+} 
+
+.btn3:hover{
+    cursor:pointer;
+    color:blue;
+    border:1px solid #1891A7;
+}
+.btn3 a{
+    color:black;
+    font-size: 16px;
+    text-decoration: none;
+    padding-top: 55px;
+}
+.btn3 a:hover{
+    color: blue;
+}
